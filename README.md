@@ -12,7 +12,7 @@ A simple interactive script to select and apply **Fastfetch themes** using `fzf`
 - 🧩 Fully customizable
 
 ---
-# Worning
+# ⚠️ Worning
 - Make sure you extract the files to this path $HOME/.config/fastfetch/
 - Make sure to add this command to ./bashrc or ./zshrc: `alias fastfetchTheme="$HOME/.config/fastfetch/fftheme.sh" fft=fastfetchTheme`. This will allow the tool to work from anywhere; you can type `fft` or `fastfetchTheme`.
 ---
